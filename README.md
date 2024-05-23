@@ -11,7 +11,7 @@
   - Upon detecting a positional error like when the controller enters a value that exceeds the coordinate limit or smaller than 0, it will trigger an LED alert and go to the end position of the system or origin.
 
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Building-a-2-axis-system/blob/main/440531668_463032149453070_369006714125849922_n.png">
+  <img width="800" src="https://github.com/kiettran499/Building-a-2-axis-system/blob/main/440531668_463032149453070_369006714125849922_n.png">
 
 ## Hardware
 
